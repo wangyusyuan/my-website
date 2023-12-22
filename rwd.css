@@ -1,0 +1,48 @@
+body {
+    font-family:標楷體;
+    font-size:24pt;
+    background-image: url("2.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin: 70px 0;
+}
+
+h2 { 
+    font-size:29pt;
+}
+
+p {
+    margin: 0 auto;
+}
+
+a { 
+    text-decoration:none
+}
+
+a:link { color:#bc8f8f }
+
+a:hover { color:#e9967a }
+
+a:visited { color:#f08080 }
+
+table {
+    width: 100%
+}
+
+td {
+    padding: 8px;
+    text-align: center;
+}
+
+td.name {
+    font-size: 34pt;   
+}
+
+article .line-image {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+        }
+
